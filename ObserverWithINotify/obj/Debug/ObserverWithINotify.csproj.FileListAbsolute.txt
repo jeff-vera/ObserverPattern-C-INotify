@@ -1,0 +1,7 @@
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverWithINotify\ObserverWithINotify\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverWithINotify\ObserverWithINotify\bin\Debug\ObserverWithINotify.dll
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverWithINotify\ObserverWithINotify\bin\Debug\ObserverWithINotify.pdb
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverWithINotify\ObserverWithINotify\bin\Debug\nunit.framework.dll
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverWithINotify\ObserverWithINotify\bin\Debug\nunit.framework.xml
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverWithINotify\ObserverWithINotify\obj\Debug\ObserverWithINotify.dll
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverWithINotify\ObserverWithINotify\obj\Debug\ObserverWithINotify.pdb
